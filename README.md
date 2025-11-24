@@ -96,7 +96,6 @@ will be created inside the `databases` directory and will retain stored records.
 
 5. You can close and re-run the program — previous data will remain saved.
 
-6. Select:
+6. To safely terminate the program select:
   > 4 — Exit
-  to safely terminate the program.
 
